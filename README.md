@@ -42,7 +42,7 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/cskamalbhera" target="_blank">
-<img src=https://img.shields.io/endpoint?label=Instagram&logo=Instagram alt=Instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" />
 </a>
 </div>
 
@@ -120,7 +120,7 @@
   <img align="center" src="https://leetcard.jacoblin.cool/kamalbhera?theme=unicorn"/>
 </p>
 
-<img width= 100% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwMeX8oQjnPUSnTXMOnzmQnwYjnCXPqw4smQ&usqp=CAU" alt=""> 
+<img align="center" width= 100% height="200px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwMeX8oQjnPUSnTXMOnzmQnwYjnCXPqw4smQ&usqp=CAU" alt=""> 
 
  <h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
 
