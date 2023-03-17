@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate and dedicated Full Stack Developer </h3> -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My name is Kamal Bhera; I am a Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
@@ -16,9 +16,9 @@
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
-- 🌱 I’m currently learning *React.js*
+- 🌱 I’m currently working *React.js & Node.js *
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://kamalbhera.github.io/)
+- 👨‍💻 All of my projects are available and [Portfolio](https://kamal-bhera.vercel.app)
 
 - 💞️ I’m looking to collaborate on **Projects**
 
@@ -35,11 +35,14 @@
 <a href="https://github.com/kamalbhera" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/aniket-pandey2912/" target="_blank">
+<a href="https://www.linkedin.com/in/kamlesh-kumawat-29605017b/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:kamalbhera97@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/cskamalbhera" target="_blank">
+<img src=https://img.shields.io/endpoint?label=Instagram&logo=Instagram alt=Instagram style="margin-bottom: 5px;" />
 </a>
 </div>
 
@@ -67,7 +70,7 @@
    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
  </div>
   <div align="center"><h3 align="center">Tools</h3> 
-  <!-- <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/> -->
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
@@ -117,8 +120,8 @@
   <img align="center" src="https://leetcard.jacoblin.cool/kamalbhera?theme=unicorn"/>
 </p>
 
-<!-- <img width= 100% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwMeX8oQjnPUSnTXMOnzmQnwYjnCXPqw4smQ&usqp=CAU" alt=""> -->
+<img width= 100% src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwMeX8oQjnPUSnTXMOnzmQnwYjnCXPqw4smQ&usqp=CAU" alt=""> 
 
-<!-- <h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3> -->
+ <h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
 
 <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
